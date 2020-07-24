@@ -1,4 +1,4 @@
-module counter
+module github.com/PeiranMa/counter
 
 go 1.14
 
